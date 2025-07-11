@@ -1,0 +1,7 @@
+numpy>=1.24
+nibabel>=4.0
+scikit-image>=0.19
+scikit-learn>=1.0
+tensorflow >=2.15  # Ensures GPU-enabled TensorFlow + CUDA dependencies
+matplotlib>=3.5
+streamlit
