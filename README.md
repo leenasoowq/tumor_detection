@@ -25,7 +25,7 @@ Background of UI:
 
 - Supports loading 4 different imaging modalities (e.g., T1, T2, FLAIR, etc.)
 
-- You may use test fold scans to evaluate predictions
+- dataset for testing https://www.kaggle.com/datasets/awsaf49/brats2020-training-data
 
 - Displays a 360-degree view of the brain with tumor visualization
 
